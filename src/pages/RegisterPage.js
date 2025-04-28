@@ -3,6 +3,7 @@ import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 
 const RegisterPage = () => {
+  
   return (
     <div className="display-center">
       <Form className="login-box">
